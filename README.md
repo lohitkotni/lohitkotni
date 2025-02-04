@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Lohith Kotni</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **LangChain**
 
 - 💬 Ask me about **react, node js, express js**
 
